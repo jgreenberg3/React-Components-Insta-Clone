@@ -2,9 +2,10 @@
   border-bottom: 1px solid #3333;
   height: 60px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   background: #ffffff;
+  border: 1px solid black;
 }
 .search-form {
   width: 150px;
